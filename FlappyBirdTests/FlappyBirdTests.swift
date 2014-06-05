@@ -21,7 +21,7 @@ class FlappyBirdTests: XCTestCase {
     }
     
     func testExample() {
-        // This is an example of a functional test case.
+        // This is an example of a functional test case.nice to meet you haha
         XCTAssert(true, "Pass")
     }
     
